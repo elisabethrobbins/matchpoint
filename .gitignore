@@ -1,0 +1,7 @@
+# ignore all .txt files
+*.txt
+
+# ignore all .csv files
+*.csv
+fabric.csv
+pattern.csv
